@@ -7,7 +7,9 @@ Udacity Front-End Developer Nanodegree Third Project
 
 ## How to Run:
 * Live preview [here](https://vaibhavmanni.github.io/memory-game/)
+                             
                              OR
+                             
 * Run index.html file. The game will launch in your default browser.
 
 ## How The Game Works
@@ -19,7 +21,7 @@ simple: open two hidden cards at a time to locate the ones that match!
 Each turn:
 
 * The player opens one card over to reveal its underlying symbol.
-* The player then opens a second card, trying to find the corresponding    card with the same symbol and that will be counted as one move.
+* The player then opens a second card, trying to find the corresponding   card with the same symbol and that will be counted as one move.
 * If the cards match, both cards stay opened.
 * If the cards do not match, both cards are closed again.
 
